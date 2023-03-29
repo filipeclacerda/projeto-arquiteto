@@ -1,0 +1,10 @@
+@import "../../utils/Constants.scss";
+
+#loading {
+  .align-center {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+  }
+}
